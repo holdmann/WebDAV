@@ -2,7 +2,7 @@
     "name": "holdmann/webdav",
     "description": "A simple PHP WebDAV client and stream wrapper",
     "keywords": ["PHP","WebDAV","Stream","Wrapper"],
-    "homepage": "https://github.com/gletournel/WebDAV",
+    "homepage": "https://github.com/holdmann/WebDAV/",
     "type": "library",
     "license": "MIT",
     "minimum-stability": "dev",
