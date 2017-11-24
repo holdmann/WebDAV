@@ -5,7 +5,7 @@
     "homepage": "https://github.com/holdmann/WebDAV/",
     "type": "library",
     "license": "MIT",
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "authors": [
         {
             "name": "Geoffroy Letournel",
